@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="text_addr_name">#3b3b3b</color>
+    <color name="text_addr_num">#000000</color>
+    <color name="color_fab">#ffffff</color>
+    <color name="yellow1">#fde000</color>
+    <color name="yellow2" >#fffca5</color>
+    <color name="grey05" >#e2e2e2</color>
+    <color name="orange5" >#ffc987</color>
+    <color name="orange4" >#ffb5b5</color>
+    <color name="blue2" >#d24580ff</color>
+    <color name="blue25" >#b76fe7ff</color>
+</resources>
