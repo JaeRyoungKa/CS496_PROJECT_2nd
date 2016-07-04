@@ -27,6 +27,7 @@ import com.facebook.login.widget.LoginButton;
 public class FacebookLogin extends Fragment {
     private CallbackManager callbackManager;
     private TextView textView;
+    private TextView textView2;
 
     private AccessTokenTracker accessTokenTracker;
     private ProfileTracker profileTracker;
@@ -91,6 +92,7 @@ public class FacebookLogin extends Fragment {
         super.onViewCreated(view, savedInstanceState);
         LoginButton loginButton = (LoginButton) view.findViewById(R.id.login_button);
         textView = (TextView) view.findViewById(R.id.fbinfo1);
+        textView2 = (TextView) view.findViewById(R.id.fbinfo2);
 
         loginButton.setReadPermissions("user_friends");
         loginButton.setFragment(this);
@@ -108,7 +110,9 @@ public class FacebookLogin extends Fragment {
     private void displayMessage(Profile profile){
         if(profile != null){
             textView.setText(profile.getName());
+            textView2.setText(profile.getId());
         }
+
     }
 
     @Override
