@@ -54,6 +54,7 @@ public class FacebookLogin extends Fragment {
 
     }
 
+
     @Override
     public void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
@@ -89,7 +90,7 @@ public class FacebookLogin extends Fragment {
     public void onViewCreated(View view, Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
         LoginButton loginButton = (LoginButton) view.findViewById(R.id.login_button);
-        textView = (TextView) view.findViewById(R.id.textView);
+        textView = (TextView) view.findViewById(R.id.fbinfo1);
 
         loginButton.setReadPermissions("user_friends");
         loginButton.setFragment(this);
