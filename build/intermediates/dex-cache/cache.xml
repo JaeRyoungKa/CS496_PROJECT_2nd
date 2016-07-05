@@ -1,3 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_858cfbd1e33ed80730e9b022df6431f75d4eefbb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_310623789e705c01800959b508dde99c4c6e498a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\q\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_d11be94cbc768d7ab26d229a2c5c13fb19dd8e22\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_796e1512bb7b06b9044f5c5c2e35170749e1aebe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\q\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_2d5d67b27a0b5f43e633e2233b385050380e74ab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_a6214c6a1a2a2607d1664c841956327702f5dc20\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b516d819c2a5a22e4298b959e167714f663bc7f1">
+        <dex dex="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3fcaa37c9e0eea465836655012b473af74dd5a18\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_b0a2ec29e88e1e60b27049911a2327fa899800f9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\q\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_382e8737b5e185e4707d1ddb47e4c34bac2d6c23\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_56a4333de612d1a7bd25a6cc855dd8a3907bfcbd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-23.4.0_6bd9afacf973b17cfc2553353385200facaf4e16\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c0b56d7bf61536515227ed3e568460a4af780320">
+        <dex dex="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_08df1f6db961324f44c89ccc70da6cbebc317003\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.0.0_28b3922c13230897749d6e7ad61310265fefedcf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_5194c5085f974bc501501406114e0070936381b8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.13.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3322df7b184ab5c8e8341508431cb3fcf395d13f">
+        <dex dex="C:\Users\q\Documents\GitHub\CS496_PROJECT_2nd\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.13.2_768f7554e1b4d77e5cc211d2b0bca6f971b4d489\classes.dex" />
+    </item>
+
+</items>

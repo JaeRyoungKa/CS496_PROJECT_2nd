@@ -35,7 +35,7 @@
                 android:layout_height= "match_parent"
                 android:layout_weight="0.2"
                 android:id="@+id/todo_complete"
-                android:text="Done"/>
+                android:text="Delete"/>
 
         </LinearLayout>
 
