@@ -1,6 +1,7 @@
 package com.example.q.cs496_prj1;
 
 import android.content.Intent;
+import android.support.design.widget.FloatingActionButton;
 import android.support.v4.app.Fragment;
 import android.content.Context;
 import android.database.DataSetObservable;
@@ -25,6 +26,7 @@ import java.io.File;
  * Created by q on 2016-06-29.
  */
 public class Tab2 extends Fragment {
+    private final static int REQUEST_ADD = 1234;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -39,6 +41,15 @@ public class Tab2 extends Fragment {
                 Intent intent = new Intent (Tab2.this.getActivity(),Tab2_expand.class);
                 intent.putExtra("address", String.valueOf(position+1));
                 startActivity(intent);
+            }
+        });
+
+        FloatingActionButton button = (FloatingActionButton) view.findViewById(R.id.gallery_fab);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Tab2.this.getActivity(), Tab2Add.class);
+                startActivityForResult(intent, REQUEST_ADD);
             }
         });
     return view;
