@@ -30,7 +30,7 @@ public class TodoAddActivity  extends FragmentActivity {
 
     public void todo_send(View v) {
         String todo = ((EditText) findViewById(R.id.todo)).getText().toString();
-        SimpleDateFormat asdf = new SimpleDateFormat("yyyy/dd/MM");
+        SimpleDateFormat asdf = new SimpleDateFormat("yyyy/MM/dd");
         CalendarView calendar = (CalendarView) findViewById(R.id.duedate);
         String dd = asdf.format(new Date(calendar.getDate()));
         if (todo.length() == 0 || dd.length() == 0){
